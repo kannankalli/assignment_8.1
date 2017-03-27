@@ -1,0 +1,1 @@
+Write a wordcount program to implement wordcount using Pig.
